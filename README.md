@@ -46,24 +46,24 @@ Managing personal finances can become difficult without an organized system for 
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Data Entry Form
 
-![Data Entry](screenshots/data%20entry.png)
+![Data Entry](screenshot/data%20entry.png)
 
 ### Income Sheet
 
-![Income](screenshots/income.png)
+![Income](screenshot/income.png)
 
 ### Expenses Sheet
 
-![Expenses](screenshots/expenses.png)
+![Expenses](screenshot/expenses.png)
 
 
 ### Instructions
 
-![Instructions](screenshots/instructions.png)
+![Instructions](screenshot/instructions.png)
 
 
 ## 🚀 How to Use
