@@ -119,7 +119,7 @@ personal-finance-tracker/
     ├── budget.png
     └── instructions.png
 
-    ## Important Notice
+ ##  Important Notice
 
 Because this workbook contains VBA macros, Microsoft Excel may block them after downloading the file from the internet.
 
